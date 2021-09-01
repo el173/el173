@@ -1,4 +1,8 @@
-### Hi there 👋
+# HELLO, WORLD. 👋
+
+> I'm Hashith Karunarathne *(FULL STACK DEVELOPER)*
+
+`Focus on BigPicture; $yntax doesn't matter`
 
 <!--
 **el173/el173** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
