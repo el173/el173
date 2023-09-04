@@ -4,10 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el173&color=brightgreen" alt="el173" /> </p>
 
-
-<img align="left" src="/metrics.plugin.languages.svg" alt="el173" width="400">
-<img align="right" src="/github-metrics.svg" alt="el173" width="400">
-<img align="left" src="/metrics.plugin.stargazers.svg" alt="el173" width="400">
+<table>
+  <tr>
+    <td><img align="center" src="/metrics.plugin.languages.svg" alt="el173" width="400"></td>
+    <td><img align="center" src="/metrics.plugin.stargazers.svg" alt="el173" width="400"></td> 
+  </tr>
+  <tr>
+    <td><img align="center" src="/github-metrics.svg" alt="el173" width="400"></td>
+  </tr>
+</table>
 
 
 [//]: <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=el173&show_icons=true&theme=dracula" alt="el173" />
