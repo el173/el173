@@ -11,6 +11,7 @@
   </tr>
   <tr>
     <td><img align="center" src="/github-metrics.svg" alt="el173" width="400"></td>
+    <td><img align="center" src="/metrics.plugin.repositories.svg" alt="el173" width="400"></td>
   </tr>
 </table>
 
