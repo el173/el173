@@ -1,6 +1,6 @@
 # HELLO, WORLD. 👋
 
-> I'm Hashith Karunarathne *(FULL STACK DEVELOPER)* `Focus on BigPicture; $yntax doesn't matter`
+> I'm Hashith Karunarathne *(FULL STACK DEVELOPER)* `$yntax is Temporary. Vision is Everything.`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=el173&color=brightgreen" alt="el173" /> </p>
 
